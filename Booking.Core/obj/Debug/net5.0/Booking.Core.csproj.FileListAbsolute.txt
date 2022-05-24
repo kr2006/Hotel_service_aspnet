@@ -1,0 +1,12 @@
+D:\BookingApp\Booking\Booking.Core\bin\Debug\net5.0\Booking.Core.deps.json
+D:\BookingApp\Booking\Booking.Core\bin\Debug\net5.0\Booking.Core.dll
+D:\BookingApp\Booking\Booking.Core\bin\Debug\net5.0\Booking.Core.pdb
+D:\BookingApp\Booking\Booking.Core\obj\Debug\net5.0\Booking.Core.csproj.AssemblyReference.cache
+D:\BookingApp\Booking\Booking.Core\obj\Debug\net5.0\Booking.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\BookingApp\Booking\Booking.Core\obj\Debug\net5.0\Booking.Core.AssemblyInfoInputs.cache
+D:\BookingApp\Booking\Booking.Core\obj\Debug\net5.0\Booking.Core.AssemblyInfo.cs
+D:\BookingApp\Booking\Booking.Core\obj\Debug\net5.0\Booking.Core.csproj.CoreCompileInputs.cache
+D:\BookingApp\Booking\Booking.Core\obj\Debug\net5.0\Booking.Core.dll
+D:\BookingApp\Booking\Booking.Core\obj\Debug\net5.0\refint\Booking.Core.dll
+D:\BookingApp\Booking\Booking.Core\obj\Debug\net5.0\Booking.Core.pdb
+D:\BookingApp\Booking\Booking.Core\obj\Debug\net5.0\ref\Booking.Core.dll
